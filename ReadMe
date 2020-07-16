@@ -1,0 +1,5 @@
+Our deep learning model has a 90% accuracy rate and is a great predictor of whether a planet is, is not, or is a good candidate for being an exoplanet.  
+
+Our second model is only 85% accurate and even with grid search is not as good of a model.
+
+We can assume that these factors are good indicators of an exoplanet’s status, but are not 100% indicative.  The model would be better at predicting new exoplanets by perhaps having more informational categories that we could add to our model to make it more specific. 
